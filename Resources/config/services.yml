@@ -1,0 +1,4 @@
+services:
+#    graph_aware_recommendation.example:
+#        class: GraphAware\RecommendationBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

@@ -1,0 +1,12 @@
+{
+    "name": "graphaware/recommendation-bundle",
+    "require": {
+        "graphaware/reco4php": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Christophe Willemsen",
+            "email": "willemsen.christophe@gmail.com"
+        }
+    ]
+}
